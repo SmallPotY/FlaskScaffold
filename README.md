@@ -19,7 +19,7 @@
 │   ├── interceptors            # 拦截器目录
 │   ├── static                  # 静态资源目录
 │   └── templates               # 模板目录
-│        └── index.html             # 首页html
+│        └── index.html             # html单页面入口
 │   └── validators              # 表单验证目录
 │        └── __init__.py             # 表单验证基类
 │   
